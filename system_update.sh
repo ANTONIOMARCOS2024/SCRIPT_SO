@@ -1,7 +1,4 @@
 #!/bin/bash
-
-# Autor: _midorya1996_
-# Data: 12/03/2018
 # Programa para atualização de distros
 
 clear
